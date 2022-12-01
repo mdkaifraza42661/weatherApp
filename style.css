@@ -73,6 +73,7 @@ button:hover{
 }
 .flex{
     display: flex;
+    align-item:center;
 }
 .description{
     margin-left: 8px;
